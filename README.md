@@ -1,2 +1,1 @@
-# ExML-Finals-ProjectBeta
-Code &amp; Approach used by the ProjectBeta team for the final round of ExML (Exun Clan's ML Event)
+![Heading Image - ProjectBeta](https://github.com/AlphaLaser/ExML-Finals-ProjectBeta/blob/825931aceeda0722319b53d459bd65511422c630/Images/pb.png)
